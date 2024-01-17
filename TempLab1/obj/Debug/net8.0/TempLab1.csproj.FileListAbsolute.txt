@@ -1,0 +1,14 @@
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\bin\Debug\net8.0\TempLab1.exe
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\bin\Debug\net8.0\TempLab1.deps.json
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\bin\Debug\net8.0\TempLab1.runtimeconfig.json
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\bin\Debug\net8.0\TempLab1.dll
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\bin\Debug\net8.0\TempLab1.pdb
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\TempLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\TempLab1.AssemblyInfoInputs.cache
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\TempLab1.AssemblyInfo.cs
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\TempLab1.csproj.CoreCompileInputs.cache
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\TempLab1.dll
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\refint\TempLab1.dll
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\TempLab1.pdb
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\TempLab1.genruntimeconfig.cache
+C:\Users\bsimm\Desktop\TempLab1\TempLab1\obj\Debug\net8.0\ref\TempLab1.dll
